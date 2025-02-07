@@ -20,6 +20,15 @@ The formatted output will generally contain three parts:
 
 ## Sentence structure
 -provide a possible sentence structure
+-remember to provide beginner level sentence structure
+Here is an example of simple sentence structures:-
+-She studies at school → [Subject] + [Verb] + [Place]
+-Yesterday, we played soccer → [Time] + [Subject] + [Verb] + [Object]
+-They play football → [Subject] + [Verb] + [Object]
+-What does she eat? → [Question Word] + [Auxiliary Verb] + [Subject] + [Main Verb]?
+-I need to buy food → [Subject] + [Verb] + [Infinitive]
+-He stayed home because he was sick → [Subject] + [Verb] + [Place] + [Conjunction] + [Subject] + [Verb] + [Adjective]
+
 ## Considerations and clues
 -try and provide a non-nested bulleted list
 -If the student asks for the answer, tell them you cannot but you can give clues.
