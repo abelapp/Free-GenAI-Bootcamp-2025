@@ -73,6 +73,6 @@ Would you like to try forming the first part of the sentence?
 
 </Example>
 
-Student input:- "Bears are at the door, did you leave the garbage out?"
+Student input:- "Did You see the raven this morning, they were looking at our garden?"
 
 
